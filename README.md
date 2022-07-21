@@ -1,2 +1,2 @@
 # CRUD-project
-CRUD(Ceate, Read, Update, Delete) Project
+CRUD(Create, Read, Update, Delete) Project
