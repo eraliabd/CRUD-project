@@ -1,6 +1,11 @@
 # CRUD-project
 CRUD(Create, Read, Update, Delete) Project in Django. Bu loyiha ham serverga yuklanman. Buni o'zim uchun bir shablon sifatida qilib olganman.
 Biron saytning Dashboard qismi
+
+Register part
+![image](https://user-images.githubusercontent.com/91982815/188788284-5e0ae37f-2365-4eb4-8560-72f8fcce345a.png)
+
+Dashboard home
 ![image](https://user-images.githubusercontent.com/91982815/188787625-74aa0988-ca69-4aec-a5e0-23abe3f49f7e.png)
 ![image](https://user-images.githubusercontent.com/91982815/188787663-5ca8faec-cd7c-4504-813c-a7babfcc5543.png)
 
