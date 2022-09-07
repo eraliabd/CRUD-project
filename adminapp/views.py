@@ -3,10 +3,10 @@ from django.shortcuts import render, redirect
 from django.urls import reverse_lazy
 from django.views import generic
 
-from .models import *
+from .models import Faculty, Kafedra, Subject, Teacher, Group, Student
 from django.contrib.auth import login, logout, authenticate
 from django.contrib.auth.decorators import login_required
-from .forms import *
+from .forms import FacultyForm, KafedraForm, SubjectForm, TeacherForm, GroupForm, StudentForm
 from . import services
 
 
